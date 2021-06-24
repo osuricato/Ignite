@@ -53,9 +53,6 @@
 **Requisitos Funcionais**
 - Deve ser possível cadastrar um aluguel.
 
-**Requsitos não Funcionais**
-- 
-
 **Regras de Negócio**
 - O aluguel deve ser duração mínima de 24 horas.
 - Não deve ser possível cadastrar um novo aluguel caso já exista um aberto para o mesmo usuário.
